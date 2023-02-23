@@ -15,7 +15,10 @@ Which challenges would you like to submit your project for?
 Power-Up plan:
 
 * NVIDIA 
-* AWS
+Test our circuit on GPU based simulator which might speed up our development.
+* AWS 
+Try our circuit on real QPU
+(Write 1-2 paragraphs for each power up you want to apply for. The idea is to justify why you need this power up in your project. Even if you have obtained a first power up in the coding challenges you are still eligible for any of the new power ups.)
 
 
 Project Link:
