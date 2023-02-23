@@ -1,25 +1,25 @@
 # project_QIAO
 Project Name:
-Apply Random Quantum Neural Network on Noisy Medical Image Recognition
+**Apply Random Quantum Neural Network on Noisy Medical Image Recognition**
 
 Team Name:
-QIAO
+**QIAO**
 
 Which challenges would you like to submit your project for?
-Hybrid Quantum-Classical Computing Challenge
-Quantum computing today!
-NVIDIA Challenge
-Amazon Braket Challenge
+* Hybrid Quantum-Classical Computing Challenge
+* Quantum computing today!
+* NVIDIA Challenge
+* Amazon Braket Challenge
 
 
 Power-Up plan:
-Hybrid Quantum-Classical Computing Challenge:
+*Hybrid Quantum-Classical Computing Challenge:
 
 Quantum computing today!
 
-NVIDIA Challenge: Test our circuit on GPU based simulator which might speed up our development.
+^ NVIDIA Challenge: Test our circuit on GPU based simulator which might speed up our development.
 
-Amazon Braket Challenge: Try our circuit on real QPU.
+^ Amazon Braket Challenge: Try our circuit on real QPU.
 
 Project Link:
 
