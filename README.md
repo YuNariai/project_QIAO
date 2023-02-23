@@ -1,12 +1,12 @@
 # project_QIAO
-Project Name:
+## Project Name:
 **Apply Random Quantum Neural Network on Noisy Medical Image Recognition**
 
-Team Name:
+##Team Name:
 **QIAO**
 
 
-Which challenges would you like to submit your project for?
+## Which challenges would you like to submit your project for?
 
 * Hybrid Quantum-Classical Computing Challenge
 * Quantum computing today!
@@ -14,23 +14,24 @@ Which challenges would you like to submit your project for?
 * Amazon Braket Challenge
 
 
-Power-Up plan:
+## Power-Up plan:
 
 * **NVIDIA** :
-Test our circuit on GPU based simulator which might speed up our development.
-
-* **AWS**
-Try our circuit on real QPU
+Encoding medical images and run QML circuit needs more than 10 qubits, which could be very slow. We need GPU computational power to speed up the coding process that could be slow in available simulators. 
 
 
+* **AWS**:
+How does this sound? AWS Breaket supports several quantum platforms. Specifically, IonQ has the advantage of long coherence which is required for our project to train a Randon Quantum Neural Network.
 
-Project Link:
+
+
+## Project Link:
 
 https://github.com/YuNariai/project_QIAO
 
 
 
-Access to power ups:
+## Access to power ups:
  
 If you have not yet done it, don't forget to fill in the [form].
 In order to be eligible for power ups, the following fields must be completed with "Yes".
