@@ -21,7 +21,7 @@ Encoding medical images and run QML circuit needs more than 10 qubits, which cou
 
 
 * **AWS**:
-AWS Breaket supports several quantum platforms. Specifically, IonQ has the advantage of long coherence which is required for our project to train a Randon Quantum Neural Network.
+AWS Braket supports several quantum platforms. Specifically, IonQ has the advantage of long coherence which is required for our project to train a Randon Quantum Neural Network.
 
 
 
