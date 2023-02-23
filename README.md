@@ -14,9 +14,10 @@ Which challenges would you like to submit your project for?
 
 Power-Up plan:
 
-^ NVIDIA 
+* NVIDIA 
+* AWS
 
-^ AWS
+
 Project Link:
 https://github.com/YuNariai/project_QIAO
 
