@@ -5,7 +5,9 @@ Project Name:
 Team Name:
 **QIAO**
 
+
 Which challenges would you like to submit your project for?
+
 * Hybrid Quantum-Classical Computing Challenge
 * Quantum computing today!
 * NVIDIA Challenge
@@ -14,18 +16,22 @@ Which challenges would you like to submit your project for?
 
 Power-Up plan:
 
-* NVIDIA 
+* **NVIDIA** :
 Test our circuit on GPU based simulator which might speed up our development.
-* AWS 
+
+* **AWS**
 Try our circuit on real QPU
-(Write 1-2 paragraphs for each power up you want to apply for. The idea is to justify why you need this power up in your project. Even if you have obtained a first power up in the coding challenges you are still eligible for any of the new power ups.)
+
 
 
 Project Link:
+
 https://github.com/YuNariai/project_QIAO
 
 
- Access to power ups:
+
+Access to power ups:
+ 
 If you have not yet done it, don't forget to fill in the [form].
 In order to be eligible for power ups, the following fields must be completed with "Yes".
 
