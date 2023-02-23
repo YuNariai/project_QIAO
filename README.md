@@ -2,7 +2,7 @@
 ## Project Name:
 **Apply Random Quantum Neural Network on Noisy Medical Image Recognition**
 
-##Team Name:
+## Team Name:
 **QIAO**
 
 
