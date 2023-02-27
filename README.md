@@ -19,7 +19,7 @@
 
 
 ## Main Contribution
-Amazon Braket supports several quantum platforms. Specifically, IonQ has the advantage of long coherence which is required for our project to train a Randon Quantum Neural Network.
+This project
 
 
 
