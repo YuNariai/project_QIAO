@@ -27,6 +27,7 @@ This project
 - RQNN Model with GPU: data_encoder_train_gpu.ipynb
 - RQNN Model without GPN: data_encoder_train_nogpu.ipynb
 - Running Envionment: requirements.txt
+- Results: gpu_result_with_Qencoder.ipynb
 - 
 
 
