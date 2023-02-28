@@ -10,7 +10,7 @@
 
 * Xiaoran Li, x832li@uwaterloo.ca 
 * Giuliana Siddi Moreau,  julie@crs4.it
-* FUTe Wong, zuxfoucault@gmail.com
+* FuTe Wong, zuxfoucault@gmail.com
 * David Liu, davidliulearn@gmail.com
 
 
