@@ -26,7 +26,7 @@ This project modifies Random Quantum Neural Networks (RQNN) (published March 202
 
 ## Main Contributions
 This project makes the following contributions
-- add quantum encoder to RQNN to reduce the number of qubits required
+- Modify the entangle layer of RQNN to reduce the circuit depth
 - incorporate cuQuantum SDK for running in run.AI
 - Apply the model to larger and more complex dataset PneumoniaMNIST
 - Apply both Gaussian, Salt and Pepper models noise models
@@ -45,4 +45,4 @@ This project makes the following contributions
 
 
 ## Future Plan
-We will investigate our model for other 2D MedMNIST datasets. Further we would like to develop QML for 3D biomedical image classification.
+We will investigate our model for other 2D MedMNIST datasets. We will compare the efficiency of modified entangle layer with that of the original layer on QPU. Further we would like to develop QML for 3D biomedical image classification.
