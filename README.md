@@ -15,7 +15,8 @@
 
 
 ## Summary
-This project modifies Random Quantum Neural Networks (RQNN) (published March 2022) with a new quantum encoder and incorporates NVIDIA cuQuantum for running at run.ai for better performance. We apply our new QML model to PneumoniaMNIST dataset with added either Gaussian or Salt and Pepper noise model. For both noise models, our model achieved around 75% accuracy which is better than classical random neural networks.
+
+This project modifies Random Quantum Neural Networks (RQNN) (published March 2022) with a new quantum encoder and incorporates NVIDIA cuQuantum for running at run.ai for better performance. We apply our new QML classificationmodel to PneumoniaMNIST [2]  dataset from with added either Gaussian or Salt and Pepper noise model. For both noise models, our model achieved around 75% accuracy which is better than classical random neural networks.
 
 
 ## References
@@ -44,4 +45,4 @@ This project makes the following contributions
 
 
 ## Future Plan
- 
+We will investigate our model for other 2D MedMNIST datasets. Further we would like to develop QML for 3D biomedical image classification.
