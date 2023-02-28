@@ -36,10 +36,10 @@ This project makes the following contributions
 
 
 ## Program Files
-- RQNN Model with GPU: data_encoder_train_gpu.ipynb
-- RQNN Model without GPN: data_encoder_train_nogpu.ipynb
-- Running Envionment: requirements.txt
-- Results: gpu_result_with_Qencoder.ipynb
+- RQNN Model with GPU: data_encoder_train_gpu.ipynb https://github.com/YuNariai/project_QIAO/blob/main/data_encoder_train_gpu.ipynb
+- RQNN Model without GPN: data_encoder_train_nogpu.ipynb https://github.com/YuNariai/project_QIAO/blob/main/data_encoder_train_nogpu.ipynb
+- Running Envionment: requirements.txt https://github.com/YuNariai/project_QIAO/blob/main/requirements.txt
+- Results: gpu_result_with_Qencoder.ipynb https://github.com/YuNariai/project_QIAO/blob/main/gpu_result_with_Qencoder.ipynb
 - 
 
 
